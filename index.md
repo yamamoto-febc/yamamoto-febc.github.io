@@ -1,37 +1,111 @@
-## Welcome to GitHub Pages
+## ブログ/記事投稿先など
 
-You can use the [editor on GitHub](https://github.com/yamamoto-febc/yamamoto-febc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+さくらのナレッジ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+http://knowledge.sakura.ad.jp/author/kazumichi_yamamoto/
 
-### Markdown
+はてなブログ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+http://febc-yamamoto.hatenablog.jp(日本語)  
+http://febc-yamamoto.hatenablog.com(英語)  
 
-```markdown
-Syntax highlighted code block
+Twitter
 
-# Header 1
-## Header 2
-### Header 3
+http://twitter.com/yamamoto_febc
 
-- Bulleted
-- List
+Qiita
 
-1. Numbered
-2. List
+http://qiita.com/yamamoto-febc
 
-**Bold** and _Italic_ and `Code` text
+GitHub
 
-[Link](url) and ![Image](src)
-```
+https://github.com/yamamoto-febc  
+https://github.com/sacloud  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 開発リスト
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yamamoto-febc/yamamoto-febc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### HashiCorp関連
 
-### Support or Contact
+#### Terraform for さくらのクラウド
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Terraform](https://terraform.io)にて[さくらのクラウド](http://cloud.sakura.ad.jp)上のリソースを管理するためのプラグイン  
+
+https://github.com/yamamoto-febc/terraform-provider-sakuracloud
+
+#### Terraform for Arukas
+
+[Terraform](https://terraform.io)にて[Arukas](https://arukas.io)上のリソースを管理するためのプラグイン  
+
+https://github.com/yamamoto-febc/terraform-provider-arukas
+
+#### Terraform for さくらのIoT Platform
+
+[Terraform](https://terraform.io)にて[さくらのIoT Platform](https://iot.sakura.ad.jp/)上のリソースを管理するためのプラグイン  
+
+https://github.com/yamamoto-febc/terraform-provider-sakuraiot
+
+#### Packer for さくらのクラウド
+
+[Packer](https://packer.io)でさくらのクラウド上にマシンイメージを作成するためのプラグイン  
+
+https://github.com/sacloud/packer-builder-sakuracloud
+
+### Docker関連
+
+#### Docker Machine さくらのクラウド用ドライバ
+
+[Docker Machine](https://docs.docker.com/machine/overview/)でさくらのクラウドを利用できるようにするドライバ
+
+https://github.com/yamamoto-febc/docker-machine-sakuracloud
+
+#### InfraKit for さくらのクラウド
+
+[Docker/InfraKit](https://github.com/docker/infrakit)にてさくらのクラウドを利用するためのプラグイン *試験的な実装  
+
+https://github.com/yamamoto-febc/infrakit-plugin-sakuracloud
+
+### WordPress関連
+
+#### さくらのクラウド オブジェクトストレージ用WPプラグイン「wp-sacloud-ojs」
+
+WordPressからさくらのクラウド オブジェクトストレージを扱うためのプラグイン  
+
+https://github.com/yamamoto-febc/wp-sacloud-ojs
+
+#### さくらのクラウド ウェブアクセラレータ用WPプラグイン「wp-sacloud-webaccel」
+
+WordPressからさくらのクラウド ウェブアクセラレータを扱うためのプラグイン  
+
+https://github.com/yamamoto-febc/wp-sacloud-webaccel
+
+### 監視関連
+
+#### Mackerel & さくらのクラウド インテグレーションツール「Sackerel」
+
+[Mackerel](https://mackerel.io)と[さくらのクラウド](http://cloud.sakura.ad.jp)のインテグレーションを行うツール
+
+https://github.com/sacloud/sackerel
+
+### ライブラリ関連
+
+#### [Go]さくらのクラウドAPIライブラリ「libsacloud」
+
+さくらのクラウドAPIをGo言語から扱うためのライブラリ  
+
+https://github.com/sacloud/libsacloud
+
+#### [Go]さくらのIoT Platform APIライブラリ「sakuraio-api」
+
+さくらのIoT PlatformをGo言語から扱うためのライブラリ  
+
+https://github.com/yamamoto-febc/sakuraio-api
+
+### その他
+
+#### Arukas-Ship
+
+GitHubとDockerHubのWebhookを利用してArukas上にデプロイするためのデプロイパイプライン構築ツール  
+
+https://github.com/yamamoto-febc/arukas-ship
+
