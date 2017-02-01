@@ -1,4 +1,4 @@
-## ブログ/記事投稿先など
+# ブログ/記事投稿先など
 
 - [さくらのナレッジ](http://knowledge.sakura.ad.jp/author/kazumichi_yamamoto/)
 - [はてなブログ(日本語)](http://febc-yamamoto.hatenablog.jp)
@@ -8,7 +8,7 @@
 - [GitHub(yamamoto-febc)](https://github.com/yamamoto-febc)
 - [GitHub(sacloud)](https://github.com/sacloud)
  
-## 開発リスト
+# 開発リスト
 
 ### HashiCorp関連
 
