@@ -10,6 +10,12 @@
  
 # 開発リスト
 
+### CLI
+
+#### [usacloud](https://github.com/sacloud/usacloud)
+
+さくらのクラウド用CLIクライアント
+
 ### HashiCorp関連
 
 #### [Terraform for さくらのクラウド](https://github.com/yamamoto-febc/terraform-provider-sakuracloud)
