@@ -50,9 +50,9 @@
 
 ---
 
-#### [InfraKit for さくらのクラウド](https://github.com/yamamoto-febc/infrakit-plugin-sakuracloud)
+#### [InfraKit for さくらのクラウド](https://github.com/sacloud/infrakit.sakuracloud)
 
-[Docker/InfraKit](https://github.com/docker/infrakit)にてさくらのクラウドを利用するためのプラグイン *試験的な実装  
+[Docker/InfraKit](https://github.com/docker/infrakit)にてさくらのクラウドを利用するためのインスタンスプラグイン 
 
 ---
 
