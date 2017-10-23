@@ -42,7 +42,11 @@
 
 ---
 
-### Docker関連
+### Moby/Docker関連
+
+#### [LinuxKit さくらのクラウド対応版](https://github.com/sacloud/linuxkit)
+
+[Moby](https://github.com/moby/moby)で作成したイメージを[LinuxKit](https://github.com/linuxkit/linuxkit)でさくらのクラウド上にアップロード/サーバ起動するためのコマンドラインツール(linuxkitのfolk)
 
 #### [Docker Machine さくらのクラウド用ドライバ](https://github.com/yamamoto-febc/docker-machine-sakuracloud)
 
