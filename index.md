@@ -48,6 +48,8 @@
 
 [Moby](https://github.com/moby/moby)で作成したイメージを[LinuxKit](https://github.com/linuxkit/linuxkit)でさくらのクラウド上にアップロード/サーバ起動するためのコマンドラインツール(linuxkitのfolk)
 
+---
+
 #### [Docker Machine さくらのクラウド用ドライバ](https://github.com/yamamoto-febc/docker-machine-sakuracloud)
 
 [Docker Machine](https://docs.docker.com/machine/overview/)でさくらのクラウドを利用できるようにするドライバ
